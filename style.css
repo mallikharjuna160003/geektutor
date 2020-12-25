@@ -1,0 +1,41 @@
+*{
+padding:0;
+margin:0;
+
+}
+p{
+  font-size:25px;
+}
+.heading{
+  margin-top:40px;
+  
+}
+
+ul{
+list-style-type: none;
+text-decoration:none;
+margin: 0;
+padding-top: 10px;
+display:flex;
+justify-content:space-around; 
+background-color:#A0A0A0;
+width:100%;
+}
+li {
+  float: left;
+  font-size:20px;
+  color:#FDF5E6;
+
+}
+
+.intro{
+   padding-top:100px;
+   margin-left:10px;
+}
+img{
+  width:50%;
+  height:50%;
+  padding-left:50px;
+  text-align:center;
+}
+
